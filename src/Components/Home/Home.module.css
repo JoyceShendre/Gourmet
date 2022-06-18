@@ -1,0 +1,98 @@
+.aboutParent {
+  gap: 2rem;
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 60px;
+}
+.aboutTitle {
+  text-align: center;
+  font-size: 50px;
+  color: #c5a86a;
+}
+.aboutParent p {
+  font-size: 18px;
+  text-align: justify;
+  line-height: 30px;
+}
+.relative {
+  position: relative;
+}
+.relative h2 {
+  position: absolute;
+  font-family: ui-sans-serif;
+  font-style: italic;
+  top: 24%;
+  left: 8%;
+  padding: 12px;
+  font-size: 88px;
+  color: #fff;
+  border-radius: 20px;
+
+}
+.relative h3 {
+  position: absolute;
+  font-family: ui-sans-serif;
+  font-style: italic;
+  top: 43%;
+  left: 19%;
+  padding: 12px;
+  font-size: 16px;
+  color: #fff;
+  border-radius: 20px;
+
+}
+
+.dropbtn {
+  background-color: #135F3B;
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  left: 19%;
+  margin-left: 27rem;
+  width: 78%;
+  margin-top: 6rem;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  /* background-color: rgb(255 255 255); */
+  margin-left: 0rem;
+  margin-right: 33rem;
+}
+
+.dropdownContent {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  width: 78%;
+  margin-left: 27rem;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdownContent a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdownContent a:hover {background-color: rgb(208, 200, 169);}
+
+.dropdown:hover .dropdownContent {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #5a5858;}
+
+.heading{
+  margin-left: 31rem;
+  font-size: 29px;
+  position: absolute;
+
+}
+
+.imgDiv{
+  margin-bottom: -16rem;
+}
