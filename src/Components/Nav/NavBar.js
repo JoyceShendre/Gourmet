@@ -94,6 +94,9 @@ function NavBar() {
         <NavLink className="navlink" activeClassName="active" to="/contact-us">
           Contact Us
         </NavLink>
+        <NavLink className="navlink" activeClassName="active" to="/outlets">
+          Our Outlets
+        </NavLink>
       </div>
       <div>
         <Dialog

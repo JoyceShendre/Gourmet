@@ -39,22 +39,9 @@ function Footer() {
         <p>You can also call/whatsapp to make an enquiry.</p>
         <h2>+91 - 99873 94444 | 99679 54444</h2>
       </div>
+
+
       <div className={classes.footer}>2022 Gourmet All rights reserved. Designed by BIT Students</div>
-      <div class={classes.innerfooter}></div>
-      <div class={classes.footeritems}>
-        <h1>Company Name</h1>
-        <p>Description of any product or motto of the company.</p>
-      </div>
-      <div class={classes.footeritems}>
-        <h3>Quick Links</h3>
-        <div class="border1"></div>
-        <ul>
-          <a href="#"><li>Home</li></a>
-          <a href="#"><li>Search</li></a>
-          <a href="#"><li>Contact</li></a>
-          <a href="#"><li>About</li></a>
-        </ul>
-      </div>
 
     </div >
   );

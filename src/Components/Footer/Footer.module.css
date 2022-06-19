@@ -2,6 +2,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
+  margin-top: 8rem;
 }
 .box {
   background: #00000087;
@@ -28,9 +29,10 @@
   margin-bottom: 1rem;
 }
 .footer {
-  background: #c5a86a;
+  background: #e4ded3;
   text-align: center;
   padding: 1rem 0;
+  opacity: 1.5;
 }
 
 .footer p {
@@ -67,18 +69,3 @@
   background: #d5d1c9;
 }
 
-.footeritems{
-  width: 25%;
-	padding: 10px 20px;
-	box-sizing: border-box;
-	color: #fff;
-}
-.innerfooter {
-  width: 95%;
-  margin: auto;
-  padding: 30px 10px;
-  display: flex;
-  flex-wrap: wrap;
-  box-sizing: border-box;
-  justify-content: center;
-}

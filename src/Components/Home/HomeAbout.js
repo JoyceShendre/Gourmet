@@ -8,11 +8,11 @@ function HomeAbout() {
       <div class={classes.dropdown}>
         <button class={classes.dropbtn}>Please select our outlets in your locality here.</button>
         <div class={classes.dropdownContent}>
-          <a href="#">Link 1</a>
-          <a href="#">Link 2</a>
-          <a href="#">Link 3</a>
-          <a href="#">Link 4</a>
-          <a href="#">Link 5</a>
+          <a href="/outlets">Bengali Camp</a>
+          <a href="/outlets">Bajaj Ward</a>
+          <a href="/outlets">Bapat Nagar</a>
+          <a href="/outlets">MIDC Road</a>
+          <a href="/outlets">Vijay Nagar</a>
         </div>
       </div>
       &nbsp;

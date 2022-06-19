@@ -1,0 +1,31 @@
+.aboutParent {
+    gap: 2rem;
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .aboutTitle {
+    text-align: center;
+    font-size: 50px;
+    color: #c5a86a;
+  }
+  .aboutParent p {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 30px;
+  }
+  .aboutDescription  {
+    text-align: center;
+    font-family: "Cabin", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 21px;
+    color: #61421e;
+    padding: 15px 0;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .imgDiv{
+    margin-bottom: -16rem;
+  }
