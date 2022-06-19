@@ -27,7 +27,7 @@ function Footer() {
               <input type="text" placeholder="Lunch / Dinner"></input>
             </div>
             <div className={classes.input6}>
-              <input type="date" placeholder="Start Service"></input>
+              <input type="date" placeholder={"Start Service"}></input>
               <input type="Submit" value={"Enquiry Now"}></input>
             </div>
           </div>

@@ -20,17 +20,20 @@ function MealPlan() {
             realization of a dream.
           </p>
           <div className={classes.grid}>
-            <div>
+            <div className={classes.card}>
               <img width={"100%"} src="./images/plan2.jpeg"></img>
               <h4>Full Meal (Rs. 3000/- / 20 meals) </h4>
+              <button>Order now</button>
             </div>
-            <div>
+            <div className={classes.card}>
               <img width={"100%"} src="./images/plan.jpeg"></img>
               <h4>Full Meal (Rs. 3000/- / 20 meals) </h4>
+              <button>Order now</button>
             </div>
-            <div>
+            <div className={classes.card}>
               <img width={"100%"} src="./images/plan2.jpeg"></img>
               <h4>Full Meal (Rs. 3000/- / 20 meals) </h4>
+              <button>Order now</button>
             </div>
           </div>
         </div>
