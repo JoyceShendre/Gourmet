@@ -25,7 +25,7 @@ function Outlets() {
                         Lunch and Dinner. Menu is given also please find us in the map below.
                         <br></br>
                     </p>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d14888.703408158017!2d79.07428963493403!3d21.10555420123012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurants!5e0!3m2!1sen!2sin!4v1655571819725!5m2!1sen!2sin" width="97%" height="50%"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d120000.34215518551!2d79.20550057406695!3d19.966052581575624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurants!5e0!3m2!1sen!2sin!4v1655712835804!5m2!1sen!2sin" width="97%" height="50%"></iframe>
 
                 </div>
             </div>
@@ -48,7 +48,7 @@ function Outlets() {
                         Lunch and Dinner. Menu is given also please find us in the map below.
                         <br></br>
                     </p>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d14888.703408158017!2d79.07428963493403!3d21.10555420123012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurants!5e0!3m2!1sen!2sin!4v1655571819725!5m2!1sen!2sin" width="97%" height="50%"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d120000.34215518551!2d79.20550057406695!3d19.966052581575624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurants!5e0!3m2!1sen!2sin!4v1655712835804!5m2!1sen!2sin" width="97%" height="50%"></iframe>
 
                 </div>
             </div>
@@ -70,7 +70,7 @@ function Outlets() {
                         Lunch and Dinner. Menu is given also please find us in the map below.
                         <br></br>
                     </p>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d14888.703408158017!2d79.07428963493403!3d21.10555420123012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurants!5e0!3m2!1sen!2sin!4v1655571819725!5m2!1sen!2sin" width="97%" height="50%"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d120000.34215518551!2d79.20550057406695!3d19.966052581575624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurants!5e0!3m2!1sen!2sin!4v1655712835804!5m2!1sen!2sin" width="97%" height="50%"></iframe>
 
                 </div>
             </div>
@@ -93,7 +93,7 @@ function Outlets() {
                         Lunch and Dinner. Menu is given also please find us in the map below.
                         <br></br>
                     </p>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d14888.703408158017!2d79.07428963493403!3d21.10555420123012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurants!5e0!3m2!1sen!2sin!4v1655571819725!5m2!1sen!2sin" width="97%" height="50%"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d120000.34215518551!2d79.20550057406695!3d19.966052581575624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurants!5e0!3m2!1sen!2sin!4v1655712835804!5m2!1sen!2sin" width="97%" height="50%"></iframe>
 
                 </div>
             </div>
@@ -116,7 +116,7 @@ function Outlets() {
                         Lunch and Dinner. Menu is given also please find us in the map below.
                         <br></br>
                     </p>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d14888.703408158017!2d79.07428963493403!3d21.10555420123012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurants!5e0!3m2!1sen!2sin!4v1655571819725!5m2!1sen!2sin" width="97%" height="50%"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d120000.34215518551!2d79.20550057406695!3d19.966052581575624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurants!5e0!3m2!1sen!2sin!4v1655712835804!5m2!1sen!2sin" width="97%" height="50%"></iframe>
 
                 </div>
             </div>

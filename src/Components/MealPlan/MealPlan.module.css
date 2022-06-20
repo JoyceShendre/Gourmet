@@ -38,3 +38,8 @@
   color: white;
   border: 1px solid #e8870d;
 }
+
+.notifications{
+  color: #db5a40;
+    font-style: italic;
+}

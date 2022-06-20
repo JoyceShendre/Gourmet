@@ -3,6 +3,7 @@ import Footer from "../Footer/Footer";
 import NavBar from "../Nav/NavBar";
 import classes from "./MealPlan.module.css";
 
+
 function MealPlan() {
   return (
     <div>
@@ -22,17 +23,20 @@ function MealPlan() {
           <div className={classes.grid}>
             <div className={classes.card}>
               <img width={"100%"} src="./images/plan2.jpeg"></img>
-              <h4>Full Meal (Rs. 3000/- / 20 meals) </h4>
+              <h4>Full Meal (Rs. 3000/- / 30 meals) </h4>
+              <p className={classes.notifications}>Price varies according to the location.</p>
               <button>Order now</button>
             </div>
             <div className={classes.card}>
               <img width={"100%"} src="./images/plan.jpeg"></img>
-              <h4>Full Meal (Rs. 3000/- / 20 meals) </h4>
+              <h4>Full Meal (Rs. 1500/- / 15 meals) </h4>
+              <p className={classes.notifications}>Price varies according to the location.</p>
               <button>Order now</button>
             </div>
             <div className={classes.card}>
               <img width={"100%"} src="./images/plan2.jpeg"></img>
-              <h4>Full Meal (Rs. 3000/- / 20 meals) </h4>
+              <h4 >Half Meal (Rs. 3000/- / 30 meals) </h4>
+              <p className={classes.notifications}>Price varies according to the location.</p>
               <button>Order now</button>
             </div>
           </div>
